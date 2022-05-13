@@ -5,7 +5,7 @@
 ### R Shiny Apps 
 
 [Netflix Activity Dashboard](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/netflix_activity_dashboard_profile.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
