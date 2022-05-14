@@ -2,7 +2,7 @@
 
 ---
 
-### Netflix Activity Dashboard 
+## Netflix Activity Dashboard 
 
 My first R Shiny web app using the 'flexdashboard' framework - presenting insights of my Netflix viewing history! <br>
 
@@ -11,7 +11,7 @@ Project code in [GitHub](https://github.com/philipkfw/Netflix-Activity-Dashboard
 <img src="images/netflix_activity_dashboard_profile.png?raw=true"/>
 
 ---
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 
 [Sales Analysis](/html/Sales_Analysis_EDA_KG.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
