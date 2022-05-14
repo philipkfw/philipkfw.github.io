@@ -11,7 +11,9 @@ Project code in [GitHub](https://github.com/philipkfw/Netflix-Activity-Dashboard
 <img src="images/netflix_activity_dashboard_profile.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Exploratory Data Analysis
+
+[Sales Analysis](/html/Sales_Analysis_EDA_KG.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
