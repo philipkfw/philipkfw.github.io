@@ -4,6 +4,8 @@
 
 ### Netflix Activity Dashboard 
 
+My first R Shiny web app using the 'flexdashboard' framework - presenting insights of my Netflix viewing history! <br>
+
 Hosted on [shinyapps.io](https://philipkfw.shinyapps.io/Netflix-Activity-Dashboard/) <br>
 [Project Code](https://github.com/philipkfw/Netflix-Activity-Dashboard) <br>
 <img src="images/netflix_activity_dashboard_profile.png?raw=true"/>
