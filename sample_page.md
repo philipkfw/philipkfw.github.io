@@ -1,15 +1,31 @@
-## This can be your internal website page / project page
+## Netflix Activity Dashboard
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As an avid Tableau user, I was always curious why data analysts/scientists prefer ‘scripting’ their data visualizations which requires more practical time and effort to learn. For that, I’ve decided to experience it myself and built my first R Shiny web app using the 'flexdashboard' framework - presenting insights of my Netflix viewing history! 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
+```R
+# import packages
+library(tidyverse) # data manipulation & visualizations
+library(gridExtra) # to plot multiple ggplot objects
+library(scales)
+library(lubridate) # date formatting
+library(readxl) # importing excel files 
+library(readr)
+library(zoo)
+library(reshape2)
+library(kableExtra) # table formatting
+library(flexdashboard) # dashboard framework
+library(htmlwidgets)
+library(DT)
+library(shiny) # dashboard framework - web application
+library(plotly) # to build interactive plots
+library(viridisLite)
+library(rvest) # webscraping
+library(bslib)
+library(shinyWidgets)
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
