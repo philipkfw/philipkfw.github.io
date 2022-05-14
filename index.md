@@ -4,7 +4,7 @@
 
 ### Netflix Activity Dashboard 
 
-Web App hosted on [R Shiny Server](https://philipkfw.shinyapps.io/Netflix-Activity-Dashboard/) <br>
+Hosted on [shinyapps.io](https://philipkfw.shinyapps.io/Netflix-Activity-Dashboard/) <br>
 [Project Code](https://github.com/philipkfw/Netflix-Activity-Dashboard) <br>
 <img src="images/netflix_activity_dashboard_profile.png?raw=true"/>
 
