@@ -5,6 +5,7 @@
 ### R Shiny Apps 
 
 [Netflix Activity Dashboard](/sample_page)
+[Project Code](https://github.com/philipkfw/Netflix-Activity-Dashboard)
 <img src="images/netflix_activity_dashboard_profile.png?raw=true"/>
 
 ---
