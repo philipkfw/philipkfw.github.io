@@ -16,7 +16,7 @@ My first R Shiny web app using the 'flexdashboard' framework - presenting insigh
 My first exploratory data analysis in Python!
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](/html/customer-segmentation-analysis.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/philipkfw/Customer-Segmentation-Analysis)
 
 <img src="images/customer_segmentation.png?raw=true"/>
 
