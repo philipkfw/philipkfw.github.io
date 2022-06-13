@@ -13,7 +13,7 @@ My first R Shiny web app using the 'flexdashboard' framework - presenting insigh
 ---
 ## Customer Segmentation (K-Means Clustering)
 
-My first exploratory data analysis in Python!
+This case study uses a mock dataset hosted on Kaggle - intended to educate other's the concepts of customer segmentation, specifically unsupervised learning (K-Means Clustering).
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](/html/customer-segmentation-analysis.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/philipkfw/Customer-Segmentation-Analysis)
