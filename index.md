@@ -1,5 +1,7 @@
 # Portfolio
 
+Welcome to my portfolio of data science and analytics projects!
+
 ---
 
 ## Netflix Activity Dashboard 
