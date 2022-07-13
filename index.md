@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio of data science and analytics projects!
+Welcome to my portfolio of **data science** and **analytics** projects!
 
 ---
 
